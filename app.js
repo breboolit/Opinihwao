@@ -5,7 +5,7 @@ function pesquisar() {
     let campoPesquisa = document.getElementById("campo-pesquisa").value
     // se campoPesquisa for um campo vazio
     if (campoPesquisa == "") {
-      section.innerHTML = "<p> Nada por aqui. Você precisa inserir o nome de um mangá ou manhwa primeiro!</p>"
+      section.innerHTML = '<p class="descricao-falha"> Nada por aqui. Você precisa inserir o nome de um mangá ou manhwa primeiro!</p>'
         return 
     }
 
@@ -39,7 +39,7 @@ function pesquisar() {
   }
 
   if (!resultados) {
-    resultados = "<p>Opa! Não temos nada sobre essa obra ainda... :(</p>"
+    resultados = '<p class= "descricao-falha">Opa! Não temos nada sobre essa obra ainda... :(</p>'
   }
   
     // Atribui o HTML construído à seção de resultados, substituindo o conteúdo anterior.
