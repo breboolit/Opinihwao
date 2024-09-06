@@ -101,6 +101,11 @@ section button:hover {
     margin: 0.5rem 0; /* Margem acima e abaixo */
 }
 
+/* estiliza a mensagem de erro */
+.descricao-falha {
+    color: #FFFFFF
+}
+
 /* Estiliza o rodapé da página */
 footer {
     background-color: #a41c54; /* Cor de fundo do rodapé */
