@@ -32,7 +32,7 @@ function pesquisar() {
             <a href="#" target="_blank">${dado.nome}</a>
           </h2>
           <p class="descricao-meta">${dado.sinopse}</p>
-          <a href=${dado.link} target="_blank">Mais informações aqui</a>
+          <a href=${dado.link} target="_blank">Mais sobre a obra aqui</a>
         </div>
       `;
       }
