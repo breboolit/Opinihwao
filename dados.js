@@ -4,7 +4,7 @@ let dados = [
         sinopse: "Um jovem estudante descobre que possui uma força sobrenatural e é recrutado para uma escola de feitiçaria com o objetivo de combater maldições.",
         numeroEdicoes : "Em andamento",
         link : "https://pt.wikipedia.org/wiki/Jujutsu_Kaisen",
-        tags : "bota no paredão satoro gojo suguru geto yuji itadori nanami kento nobara kugisaki terror expansao de dominio sukuna feiticeiro"
+        tags : "satoro satoru gojo suguru geto yuji itadori nanami kento nobara kugisaki terror expansao de dominio sukuna feiticeiro"
     },
 
     {
@@ -12,7 +12,7 @@ let dados = [
         sinopse : "Spy x Family é um anime e mangá que acompanha a vida de um espião que precisa criar uma família falsa para completar uma missão.",
         numeroEdicoes : "12 volumes, em andamento",
         link: "https://pt.wikipedia.org/wiki/Spy_x_Family",
-        tags : "agente twilight anya yor lloid forger familiar comedia"
+        tags : "agente twilight anya yor loid forger familiar comedia"
     },
 
     {
