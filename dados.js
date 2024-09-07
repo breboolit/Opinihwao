@@ -4,7 +4,7 @@ let dados = [
         sinopse: "Um jovem estudante descobre que possui uma força sobrenatural e é recrutado para uma escola de feitiçaria com o objetivo de combater maldições.",
         numeroEdicoes : "Em andamento",
         link : "https://pt.wikipedia.org/wiki/Jujutsu_Kaisen",
-        tags : "satoro satoru gojo suguru geto yuji itadori nanami kento nobara kugisaki terror expansao de dominio sukuna feiticeiro"
+        tags : "satoro satoru gojo suguru geto yuji itadori nanami kento nobara kugisaki terror expansao de dominio sukuna feiticeiro megumi fushiguro todou maki panda"
     },
 
     {
