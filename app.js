@@ -15,16 +15,18 @@ function pesquisar() {
     let resultados = "";
     let nome = "";
     let sinopse = "";
+    let opiniao = "";
     let tags = "";
 
     // Itera sobre cada dado na lista de dados.
     for (let dado of dados) {
         nome = dado.nome.toLowerCase()
         sinopse = dado.sinopse.toLowerCase()
+        opiniao = dado.opiniao.toLowerCase()
         tags = dado.tags.toLowerCase()
 
       // se incluir o nome no campo de pesquisa
-      if (nome.includes(campoPesquisa) || sinopse.includes(campoPesquisa) || tags.includes(campoPesquisa)) {
+      if (nome.includes(campoPesquisa) || sinopse.includes(campoPesquisa) || tags.includes(campoPesquisa) || opiniao.includes(campoPesquisa)) {
       // Utiliza template literals (``) para facilitar a interpolação de valores.
         resultados += `
         <div class="item-resultado">
@@ -32,6 +34,7 @@ function pesquisar() {
             <a href="#" target="_blank">${dado.nome}</a>
           </h2>
           <p class="descricao-meta">${dado.sinopse}</p>
+          <p class="descricao-meta">${dado.opiniao}</p>
           <a href=${dado.link} target="_blank">Mais sobre a obra aqui</a>
         </div>
       `;
