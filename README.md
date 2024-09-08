@@ -1,4 +1,4 @@
-## Opinihwao: Sua opinião sobre manhwa e mangá em um só lugar! 
+## Opinihwao: Sua opinião sobre manhwa e mangá em um só lugar! - Imersão Dev com Google Gemini e Alura
 
 *O que é o Opinihwao?*
 
