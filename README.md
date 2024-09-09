@@ -2,7 +2,7 @@
 
 *O que é o Opinihwao?*
 
-É uma aplicação web simples e divertida onde você pode encontrar informações e opiniões sobre seus manhwas e mangás favoritos. Pesquise por título, sinopse ou tag e descubra o que a comunidade acha daquela obra!
+É uma aplicação web simples e divertida onde você pode encontrar informações e opiniões sobre seus manhwas e mangás favoritos. Pesquise por título, sinopse ou tag e descubra o que a comunidade - ou a criadora da aplicação - acha daquela obra!
 
 *Como funciona?*
 
