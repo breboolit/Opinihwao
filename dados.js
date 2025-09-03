@@ -20,7 +20,7 @@ let dados = [
     {
         nome : "Demon Slayer",
         sinopse : "Demon Slayer é um anime e mangá que narra a história de Tanjiro Kamado, um jovem que se torna um caçador de demônios para vingar a morte de sua família.",
-        opiniao : "Demon Slayer é muito emocionante e frenético, dado ao fato de que consegue equilibrar sua trama entre lutas alucinantes contra demônios e o desenvolvimento emocional dos personagens, com Tanjiro e sua busca ininterrupta pela cura da irmã, que foi amaldiçoada. A obra também conta com personagens incrivelmente carismáticos, que ganham o coração dos leitores, como o protagonista Tanjiro, Nezuko e Inosuke, um dos mais peculiares por possuir a cabeça de um javali. Por mencionar a peculiaridade de seus personagens, é indispensável os elogios à cartunista, que cria personagens tão originais em uma mesma obra! Outro ponto positivo da obra está na mulher que o escreveu e ilustrou, Koyoharu Gotoge, pois a autora traz muitas personagens femininas e ao contrário do que muitos mangás reproduzem, a autora foi cautelosa com suas personagens, não as usando apenas como belos corpos, fazendo-as de alívio cômico, mas sim deu espaço para essas personagens serem bem desenvolvidas e exploradas, deixando de lado a objetificação das personagens femininas.",
+        opiniao : "Demon Slayer é muito emocionante e frenético, dado ao fato de que consegue equilibrar sua trama entre lutas alucinantes contra demônios e o desenvolvimento emocional dos personagens, com Tanjiro e sua busca ininterrupta pela cura da irmã, que foi transformada em oni. A obra também conta com personagens incrivelmente carismáticos, que ganham o coração dos leitores, como o protagonista Tanjiro, Nezuko e Inosuke, um dos mais peculiares por usar uma máscara feita da carcaça de uma cabeça de javali. Sem mencionar os hashiras, que são personagens muito icônicos e poderosos! Por mencionar a peculiaridade de seus personagens, é indispensável os elogios à criadora, Koyoharu Gotouge, que criou personagens tão originais em uma mesma obra, com tantas nuances e profundidade! Agora um ponto negativo da obra é a forma como algumas personagens femininas são retratadas, no caso a Mitsuri Kanroji – Hashira do Amor, que é constantemente sexualizada pelo uniforme escolhido para ela, sem contar a forma que o busto e as pernas da mesma ficam expostos – Tipo, esse uniforme tem o objetivo de proteger os caçadores dos ataques dos onis, e está falhando miseravelmente em protege-la – tanto dos onis, quanto dos olhares maldosos de um certo público...”,
         numeroEdicoes : "3 temporadas",
         link: "https://pt.wikipedia.org/wiki/Demon_Slayer",
         tags : "tanjiro kamado nezuko inosuke hashibira mitsuri kanroji vingança"
@@ -53,4 +53,5 @@ let dados = [
         tags : "romance jookyung suho seojun drama webtoon manhwa"
     }
 ];
+
 
